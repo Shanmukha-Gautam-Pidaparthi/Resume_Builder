@@ -1,0 +1,44 @@
+Full Stack Developer – Job Description
+
+We are seeking a skilled and motivated Full Stack Developer to join our dynamic development team. The ideal candidate will be responsible for designing, developing, and maintaining scalable web applications across both frontend and backend systems.
+
+Key Responsibilities:
+
+- Develop and maintain responsive web applications using modern frontend technologies.
+- Design and implement RESTful APIs and backend services.
+- Work with databases to design efficient schemas and optimize queries.
+- Collaborate with UI/UX designers to translate wireframes into functional applications.
+- Ensure cross-platform optimization and mobile responsiveness.
+- Write clean, maintainable, and well-documented code.
+- Participate in code reviews and follow best development practices.
+- Debug, test, and optimize application performance.
+- Integrate third-party APIs and services.
+- Deploy and maintain applications in cloud environments.
+
+Required Skills:
+
+- Proficiency in frontend technologies such as HTML, CSS, JavaScript.
+- Experience with modern frameworks like React, Angular, or Vue.js.
+- Strong backend development skills using Node.js, Express, Django, or similar frameworks.
+- Experience with databases such as MongoDB, MySQL, or PostgreSQL.
+- Knowledge of RESTful API development.
+- Familiarity with Git version control.
+- Understanding of authentication, authorization, and web security principles.
+- Experience with Docker and basic cloud platforms (AWS/GCP/Azure) is a plus.
+
+Preferred Qualifications:
+
+- Experience with Agile development methodologies.
+- Knowledge of CI/CD pipelines.
+- Strong problem-solving and analytical skills.
+- Good communication and teamwork abilities.
+
+Education:
+
+- Bachelor’s degree in Computer Science, Engineering, or related field (or equivalent practical experience).
+
+Experience:
+
+- 1–3 years of experience in full stack development (freshers with strong project experience may apply).
+
+We are looking for passionate developers who are eager to build scalable systems and continuously learn new technologies.
