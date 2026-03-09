@@ -1,0 +1,177 @@
+[
+  {
+    "type": "email",
+    "original": "john@example.com",
+    "canonical": "john@example.com",
+    "hash": "2e1cbfe8b299cf90ee10b64b4f290a8af5f5e4d46a2e7ad815a228389128e449",
+    "token": "<EMAIL_2e1cbfe8b299>"
+  },
+  {
+    "type": "phone",
+    "original": "+1-555-123-4567",
+    "canonical": "1-555-123-4567",
+    "hash": "a7436ac28ce7c0c46bbda5a9f36d632e60b07375f13359df9c888138aa570dee",
+    "token": "<PHONE_a7436ac28ce7>"
+  },
+  {
+    "type": "urls",
+    "original": "https://github.com/johndoe",
+    "canonical": "https//github.com/johndoe",
+    "hash": "6d3f128474fca5f6481a9202578de47d5aea5bd1070035d5aac3e259074347d6",
+    "token": "<URLS_6d3f128474fc>"
+  },
+  {
+    "type": "social_handles",
+    "original": "@example",
+    "canonical": "@example",
+    "hash": "4d860e868cefb4ba1b6bdb1c928ad672663e7c9ad6bb2674580b8e0873cf2b07",
+    "token": "<SOCIAL_HANDLES_4d860e868cef>"
+  },
+  {
+    "token": "<NAME_1_6b7b871bf9865785>",
+    "original": "Gajula Eshwarnath\n",
+    "canonical": "gajula eshwarnath\n",
+    "hash": "6b7b871bf9865785957618e2a25c9861db5e7de1ac59eba4e3259d61c1d7bd52",
+    "type": "name"
+  },
+  {
+    "token": "<PHONE_1_37fd3d6910226458>",
+    "original": "+91 93921 62232",
+    "canonical": "919392162232",
+    "hash": "37fd3d6910226458a687c65dc40dcbe04d55bdb4138c60181740dde7e45fedd4",
+    "type": "phone"
+  },
+  {
+    "token": "<EMAIL_1_af17853b5b81e514>",
+    "original": "gajulaeshwarnath24@gmail.com",
+    "canonical": "gajulaeshwarnath24@gmail.com",
+    "hash": "af17853b5b81e5144b41ba2bbac0452920a17a2d71fa314756b4a88add9976cb",
+    "type": "email"
+  },
+  {
+    "token": "<NAME_2_dc28dba1e56c9ea5>",
+    "original": "Amrita Vishwa Vidyapeetham Computer",
+    "canonical": "amrita vishwa vidyapeetham computer",
+    "hash": "dc28dba1e56c9ea5f969b352bd3daac29a526d52546308bf8688a9e9c9f1eae1",
+    "type": "name"
+  },
+  {
+    "token": "<ADDR_1_1cda644ae8dff7a9>",
+    "original": "2024",
+    "canonical": "2024",
+    "hash": "1cda644ae8dff7a98a1ab0a51338cd066c5f968d7a7cd901597041cac7b6b877",
+    "type": "address"
+  },
+  {
+    "token": "<ADDR_2_8b448d780d367e4d>",
+    "original": "2027",
+    "canonical": "2027",
+    "hash": "8b448d780d367e4d19fd1d6384834f6459f9b45970b7ac9bb7fb84ec2c78043e",
+    "type": "address"
+  },
+  {
+    "token": "<ADDR_3_b8fd9c41f6acfe9f>",
+    "original": "2021",
+    "canonical": "2021",
+    "hash": "b8fd9c41f6acfe9fa1f242e526fa714a452d9740a8dce205ec0b9317c2098ed7",
+    "type": "address"
+  },
+  {
+    "token": "<ADDR_4_8b6814ddb85c45c5>",
+    "original": "2023",
+    "canonical": "2023",
+    "hash": "8b6814ddb85c45c559ae6e1a5a27900bdf7d7962976da2a8a9950712a6add96b",
+    "type": "address"
+  },
+  {
+    "token": "<ADDR_5_c45ac6b7ca7fae2e>",
+    "original": "2020",
+    "canonical": "2020",
+    "hash": "c45ac6b7ca7fae2e279120cef315aba235c5754f83565d0e770c24682236aacb",
+    "type": "address"
+  },
+  {
+    "token": "<ADDR_6_9c233bfa1b4c52ce>",
+    "original": "2026",
+    "canonical": "2026",
+    "hash": "9c233bfa1b4c52ced9864de65b25604e570dce727afbe5d092d57b6e78467a00",
+    "type": "address"
+  },
+  {
+    "token": "<NAME_3_1fa65e3abe1f5f24>",
+    "original": "MERN Stack",
+    "canonical": "mern stack",
+    "hash": "1fa65e3abe1f5f244958a6bbe5df823bfb288e911f1c0111393efecaacf15eb2",
+    "type": "name"
+  },
+  {
+    "token": "<ADDR_7_3948a15db10ec852>",
+    "original": "2025",
+    "canonical": "2025",
+    "hash": "3948a15db10ec85202bead4c95b083288be0bba9b91bc8f4daf5afc56f5b97ae",
+    "type": "address"
+  },
+  {
+    "token": "<NAME_4_508ac334412272da>",
+    "original": "Greedy Algorithm",
+    "canonical": "greedy algorithm",
+    "hash": "508ac334412272da206e9257bf4dec656e75d4ca643174dc3709ee18fc79bd0b",
+    "type": "name"
+  },
+  {
+    "token": "<NAME_1_58cae7de57b4073d>",
+    "original": "Gajula Eshwarnath",
+    "canonical": "gajula eshwarnath",
+    "hash": "58cae7de57b4073d4e3156b4bb42448057fd04eb623c818f99d4b71228273883",
+    "type": "name"
+  },
+  {
+    "token": "<NAME_1_dc28dba1e56c9ea5>",
+    "original": "Amrita Vishwa Vidyapeetham Computer",
+    "canonical": "amrita vishwa vidyapeetham computer",
+    "hash": "dc28dba1e56c9ea5f969b352bd3daac29a526d52546308bf8688a9e9c9f1eae1",
+    "type": "name"
+  },
+  {
+    "token": "<ADDR_1_9c233bfa1b4c52ce>",
+    "original": "2026",
+    "canonical": "2026",
+    "hash": "9c233bfa1b4c52ced9864de65b25604e570dce727afbe5d092d57b6e78467a00",
+    "type": "address"
+  },
+  {
+    "token": "<ADDR_2_3948a15db10ec852>",
+    "original": "2025",
+    "canonical": "2025",
+    "hash": "3948a15db10ec85202bead4c95b083288be0bba9b91bc8f4daf5afc56f5b97ae",
+    "type": "address"
+  },
+  {
+    "token": "<NAME_1_1fa65e3abe1f5f24>",
+    "original": "MERN Stack",
+    "canonical": "mern stack",
+    "hash": "1fa65e3abe1f5f244958a6bbe5df823bfb288e911f1c0111393efecaacf15eb2",
+    "type": "name"
+  },
+  {
+    "token": "<NAME_1_508ac334412272da>",
+    "original": "Greedy Algorithm",
+    "canonical": "greedy algorithm",
+    "hash": "508ac334412272da206e9257bf4dec656e75d4ca643174dc3709ee18fc79bd0b",
+    "type": "name"
+  },
+  {
+    "token": "<NAME_1_ee15912591cfdd34>",
+    "original": "Machine Learning",
+    "canonical": "machine learning",
+    "hash": "ee15912591cfdd349dfd3b397f377b9acd739a56ec67ae92c24dc06ad2c1f200",
+    "type": "name"
+  },
+  {
+    "token": "<ADDR_1_3948a15db10ec852>",
+    "original": "2025",
+    "canonical": "2025",
+    "hash": "3948a15db10ec85202bead4c95b083288be0bba9b91bc8f4daf5afc56f5b97ae",
+    "type": "address"
+  }
+]
