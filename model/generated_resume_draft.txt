@@ -1,0 +1,73 @@
+---
+
+PROFESSIONAL SUMMARY
+
+Highly motivated and passionate software developer with strong programming skills in Python, JavaScript, HTML, CSS, Flutter, Firebase, REST APIs, MongoDB, C++ (Intermediate), C, Java (Basic), SQL, React (Basic), Node.js, Express.js, Dart, Pandas, NumPy, Matplotlib, and GitHub. Seeking a software developer intern position at a dynamic and innovative company to contribute to designing, developing, and maintaining scalable software applications.
+
+---
+
+TECHNICAL SKILLS
+
+* Strong knowledge of programming languages such as C++, Python, or Java.
+* Basic understanding of web technologies like HTML, CSS, and JavaScript.
+* Familiarity with frameworks such as React or Flutter.
+* Knowledge of databases such as MySQL or MongoDB.
+* Understanding of Data Structures and Algorithms.
+* Familiarity with Git and version control systems.
+
+---
+
+PROFESSIONAL EXPERIENCE
+
+Software Engineering Intern
+Medical Appointment Web Application
+
+* Developed a responsive web platform that allows patients to book appointments with doctors online.
+* Implemented user authentication and appointment scheduling features.
+* Ensured the system's security and compliance with data privacy regulations.
+* Collaborated with cross-functional teams, including designers and backend engineers, to improve the application's performance and user experience.
+
+Software Engineering Intern
+Movie Vault OTT Application
+
+* Built a mobile application for browsing and streaming movies.
+* Implemented user authentication and movie database integration using Firebase.
+* Ensured the application's scalability and performance by optimizing code and using modern development tools and practices.
+* Participated in code reviews and development discussions to improve the application's quality and maintainability.
+
+---
+
+PROJECTS
+
+1. Medical Appointment Web Application
+Developed a responsive web platform that allows patients to book appointments with doctors online. The system includes patient login, appointment scheduling, and viewing medical history. (Tech: HTML, CSS, JavaScript.)
+
+2. Movie Vault OTT Application
+Built a mobile application for browsing and streaming movies. Implemented user authentication and movie database integration using Firebase. (Tech: Flutter, Dart, Firebase.)
+
+---
+
+EDUCATION
+
+B.Tech — Amrita Vishwa Vidyapeetham, Coimbatore
+
+---
+
+CERTIFICATIONS
+
+(If any evidence in facts)
+
+---
+
+ACHIEVEMENTS / AWARDS
+
+(Include briefly if space permits)
+
+---
+
+CAREER GOALS
+To work as a software developer at a product-based company and build scalable applications that solve real-world problems.
+
+---
+
+END RESUME

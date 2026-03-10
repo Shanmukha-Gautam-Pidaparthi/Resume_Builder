@@ -1,0 +1,17 @@
+[
+  {
+    "id": 0,
+    "text": "─── SOURCE: about.txt ─── Gajula Eshwarnath <EMAIL_1_a3dbf0839a13adc7> <PHONE_1_290212d44cdc7371><LINKEDIN_1_abf1e89dc258d892> <GITHUB_1_c089599a11fa98fd> Education: B.Tech Computer Science and Engineering Amrita Vishwa Vidyapeetham, Coimbatore Expected Graduation: 2027 CGPA: 7.7 Interests: competitive programming, machine learning, open source, mobile development Career Goals: To work as a software developer at a product-based company and build scalable applications that solve real-world problems. ─── SOURCE: projects.txt ─── PROJECTS 1. Medical Appointment Web Application Developed a responsive web platform that allows patients to book appointments with doctors online. The system includes patient login, appointment scheduling, and viewing medical history. Technologies used: HTML, CSS, JavaScript. 2. Movie Vault OTT Application Built a",
+    "source": "resume"
+  },
+  {
+    "id": 1,
+    "text": "patient login, appointment scheduling, and viewing medical history. Technologies used: HTML, CSS, JavaScript. 2. Movie Vault OTT Application Built a mobile application for browsing and streaming movies. Implemented user authentication and movie database integration using Firebase. Technologies used: Flutter, Dart, Firebase. 3. Banking Cash Flow Minimizer Developed a graph-based algorithm to minimize the number of transactions required to settle debts between multiple banks. Used greedy optimization techniques to reduce overall transaction costs. Technologies used: Python, Graph Algorithms, Data Structures. 4. Full Stack Job Portal Created a job portal platform that connects job seekers with recruiters. Features include job search, resume",
+    "source": "resume"
+  },
+  {
+    "id": 2,
+    "text": "Full Stack Job Portal Created a job portal platform that connects job seekers with recruiters. Features include job search, resume upload, application tracking, and recruiter dashboards. Technologies used: React, Node.js, Express.js, MongoDB. ─── SOURCE: skills.txt ─── TECHNICAL SKILLS Programming Languages C++ (Intermediate) Python C Java (Basic) JavaScript SQL Web Development HTML CSS React (Basic) Node.js Express.js Mobile Development Flutter Dart Libraries Pandas NumPy Matplotlib Tools GitHub VS Code Google Colab Figma Technologies Firebase REST APIs MongoDB",
+    "source": "resume"
+  }
+]

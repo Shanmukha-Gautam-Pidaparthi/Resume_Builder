@@ -1,0 +1,33 @@
+JOB DESCRIPTION
+
+Position: Software Developer Intern
+
+Company Overview:
+We are looking for a motivated and passionate Software Developer Intern to join our engineering team. The candidate will work closely with experienced developers to design, develop, and maintain scalable software applications.
+
+Responsibilities:
+- Assist in designing and developing web and mobile applications.
+- Write clean, efficient, and maintainable code.
+- Collaborate with cross-functional teams including designers and backend engineers.
+- Debug and resolve technical issues.
+- Participate in code reviews and development discussions.
+- Work on improving application performance and user experience.
+
+Required Skills:
+- Strong knowledge of programming languages such as C++, Python, or Java.
+- Basic understanding of web technologies like HTML, CSS, and JavaScript.
+- Familiarity with frameworks such as React or Flutter is a plus.
+- Knowledge of databases such as MySQL or MongoDB.
+- Understanding of Data Structures and Algorithms.
+- Familiarity with Git and version control systems.
+
+Preferred Qualifications:
+- Experience working on personal or academic software projects.
+- Knowledge of REST APIs and backend development.
+- Basic understanding of cloud platforms or Firebase.
+
+Benefits:
+- Hands-on experience working on real-world projects.
+- Opportunity to learn from experienced engineers.
+- Exposure to modern development tools and practices.
+- Potential opportunity for a full-time role based on performance.

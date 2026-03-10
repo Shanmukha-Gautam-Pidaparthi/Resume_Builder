@@ -1,0 +1,148 @@
+{
+  "personal_info": {
+    "name": "Gajula Eshwarnath",
+    "email": "<EMAIL_1_a3dbf0839a13adc7>",
+    "phone": "<PHONE_1_290212d44cdc7371>",
+    "linkedin": "<LINKEDIN_1_abf1e89dc258d892>",
+    "github": "<GITHUB_1_c089599a11fa98fd>"
+  },
+  "summary": "",
+  "education": [
+    {
+      "degree": "B.Tech",
+      "description": "B.Tech Computer Science and Engineering",
+      "institution": "Amrita Vishwa Vidyapeetham, Coimbatore",
+      "gpa": "7.7"
+    }
+  ],
+  "skills": {
+    "languages": [
+      "C++ (Intermediate)",
+      "Python",
+      "C",
+      "Java (Basic)",
+      "JavaScript",
+      "SQL"
+    ],
+    "web": [
+      "HTML",
+      "CSS",
+      "React (Basic)",
+      "Node.js",
+      "Express.js"
+    ],
+    "mobile": [
+      "Flutter",
+      "Dart"
+    ],
+    "libraries": [
+      "Pandas",
+      "NumPy",
+      "Matplotlib"
+    ],
+    "tools": [
+      "GitHub",
+      "VS Code",
+      "Google Colab",
+      "Figma"
+    ],
+    "technologies": [
+      "Firebase",
+      "REST APIs",
+      "MongoDB"
+    ]
+  },
+  "experience": [],
+  "projects": [
+    {
+      "name": "Medical Appointment Web Application",
+      "description": "Developed a responsive web platform that allows patients to book appointments with doctors online. The system includes patient login, appointment scheduling, and viewing medical history.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript."
+      ],
+      "bullets": []
+    },
+    {
+      "name": "Movie Vault OTT Application",
+      "description": "Built a mobile application for browsing and streaming movies. Implemented user authentication and movie database integration using Firebase.",
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Firebase."
+      ],
+      "bullets": []
+    },
+    {
+      "name": "Banking Cash Flow Minimizer",
+      "description": "Developed a graph-based algorithm to minimize the number of transactions required to settle debts between multiple banks. Used greedy optimization techniques to reduce overall transaction costs.",
+      "technologies": [
+        "Python",
+        "Graph Algorithms",
+        "Data Structures."
+      ],
+      "bullets": []
+    },
+    {
+      "name": "Full Stack Job Portal",
+      "description": "Created a job portal platform that connects job seekers with recruiters. Features include job search, resume upload, application tracking, and recruiter dashboards.",
+      "technologies": [
+        "React",
+        "Node.js",
+        "Express.js",
+        "MongoDB."
+      ],
+      "bullets": []
+    }
+  ],
+  "certifications": [],
+  "profiles": [
+    {
+      "type": "linkedin",
+      "raw_url": "<LINKEDIN_1_abf1e89dc258d892>"
+    },
+    {
+      "type": "github",
+      "raw_url": "<GITHUB_1_c089599a11fa98fd>"
+    }
+  ],
+  "interests": [
+    "competitive programming",
+    "machine learning",
+    "open source",
+    "mobile development"
+  ],
+  "goals": [
+    "To work as a software developer at a product-based company and build scalable applications that solve real-world problems."
+  ],
+  "achievements": [],
+  "raw_sections": {
+    "about": "Gajula Eshwarnath\n<EMAIL_1_a3dbf0839a13adc7>\n<PHONE_1_290212d44cdc7371><LINKEDIN_1_abf1e89dc258d892>\n<GITHUB_1_c089599a11fa98fd>\n\nEducation:\nB.Tech Computer Science and Engineering\nAmrita Vishwa Vidyapeetham, Coimbatore\nExpected Graduation: 2027\nCGPA: 7.7\n\nInterests: competitive programming, machine learning, open source, mobile development\nCareer Goals: To work as a software developer at a product-based company and build scalable applications that solve real-world problems.",
+    "projects": "PROJECTS\n\n1. Medical Appointment Web Application\nDeveloped a responsive web platform that allows patients to book appointments with doctors online.\nThe system includes patient login, appointment scheduling, and viewing medical history.\nTechnologies used: HTML, CSS, JavaScript.\n\n2. Movie Vault OTT Application\nBuilt a mobile application for browsing and streaming movies.\nImplemented user authentication and movie database integration using Firebase.\nTechnologies used: Flutter, Dart, Firebase.\n\n3. Banking Cash Flow Minimizer\nDeveloped a graph-based algorithm to minimize the number of transactions required to settle debts between multiple banks.\nUsed greedy optimization techniques to reduce overall transaction costs.\nTechnologies used: Python, Graph Algorithms, Data Structures.\n\n4. Full Stack Job Portal\nCreated a job portal platform that connects job seekers with recruiters.\nFeatures include job search, resume upload, application tracking, and recruiter dashboards.\nTechnologies used: React, Node.js, Express.js, MongoDB.",
+    "skills": "TECHNICAL SKILLS\nProgramming Languages\nC++ (Intermediate)\nPython\nC\nJava (Basic)\nJavaScript\nSQL\nWeb Development\nHTML\nCSS\nReact (Basic)\nNode.js\nExpress.js\nMobile Development\nFlutter\nDart\nLibraries\nPandas\nNumPy\nMatplotlib\nTools\nGitHub\nVS Code\nGoogle Colab\nFigma\nTechnologies\nFirebase\nREST APIs\nMongoDB"
+  },
+  "_metadata": {
+    "parser_version": "3.0",
+    "input_mode": "notes_role_based",
+    "roles_present": [
+      "about",
+      "projects",
+      "skills"
+    ]
+  },
+  "_job_description_sanitized": "",
+  "_input_files": [
+    "about.txt",
+    "certifications.docx",
+    "projects.txt",
+    "skills.txt"
+  ],
+  "_resume_file": null,
+  "_input_mode": "notes_role_based",
+  "_chunk_texts": [
+    "─── SOURCE: about.txt ─── Gajula Eshwarnath <EMAIL_1_a3dbf0839a13adc7> <PHONE_1_290212d44cdc7371><LINKEDIN_1_abf1e89dc258d892> <GITHUB_1_c089599a11fa98fd> Education: B.Tech Computer Science and Engineering Amrita Vishwa Vidyapeetham, Coimbatore Expected Graduation: 2027 CGPA: 7.7 Interests: competitive programming, machine learning, open source, mobile development Career Goals: To work as a software developer at a product-based company and build scalable applications that solve real-world problems. ─── SOURCE: projects.txt ─── PROJECTS 1. Medical Appointment Web Application Developed a responsive web platform that allows patients to book appointments with doctors online. The system includes patient login, appointment scheduling, and viewing medical history. Technologies used: HTML, CSS, JavaScript. 2. Movie Vault OTT Application Built a",
+    "patient login, appointment scheduling, and viewing medical history. Technologies used: HTML, CSS, JavaScript. 2. Movie Vault OTT Application Built a mobile application for browsing and streaming movies. Implemented user authentication and movie database integration using Firebase. Technologies used: Flutter, Dart, Firebase. 3. Banking Cash Flow Minimizer Developed a graph-based algorithm to minimize the number of transactions required to settle debts between multiple banks. Used greedy optimization techniques to reduce overall transaction costs. Technologies used: Python, Graph Algorithms, Data Structures. 4. Full Stack Job Portal Created a job portal platform that connects job seekers with recruiters. Features include job search, resume",
+    "Full Stack Job Portal Created a job portal platform that connects job seekers with recruiters. Features include job search, resume upload, application tracking, and recruiter dashboards. Technologies used: React, Node.js, Express.js, MongoDB. ─── SOURCE: skills.txt ─── TECHNICAL SKILLS Programming Languages C++ (Intermediate) Python C Java (Basic) JavaScript SQL Web Development HTML CSS React (Basic) Node.js Express.js Mobile Development Flutter Dart Libraries Pandas NumPy Matplotlib Tools GitHub VS Code Google Colab Figma Technologies Firebase REST APIs MongoDB"
+  ]
+}

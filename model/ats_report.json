@@ -1,0 +1,55 @@
+{
+  "ats_score": 74.2,
+  "grade": "B",
+  "breakdown": {
+    "keyword_coverage": 50.2,
+    "embedding_similarity": 83.1,
+    "section_completeness": 100.0
+  },
+  "weights": {
+    "keyword_coverage": 0.4,
+    "embedding_sim": 0.35,
+    "section_completeness": 0.25
+  },
+  "section_presence": {
+    "summary": true,
+    "skills": true,
+    "experience": true,
+    "education": true,
+    "projects": true
+  },
+  "jd_keywords_total": 215,
+  "keywords_covered": 108,
+  "keywords_missing": [
+    "academic",
+    "academic software",
+    "apis backend",
+    "applications assist",
+    "applications write",
+    "assist",
+    "assist designing",
+    "backend development",
+    "based",
+    "based performance",
+    "benefits",
+    "benefits hands-on",
+    "clean",
+    "clean efficient",
+    "closely",
+    "closely experienced",
+    "cloud",
+    "cloud platforms",
+    "code collaborate",
+    "collaborate",
+    "collaborate cross-functional",
+    "company overview",
+    "debug",
+    "debug resolve",
+    "description",
+    "description software",
+    "design",
+    "design develop",
+    "develop",
+    "develop maintain"
+  ]
+}
