@@ -12,20 +12,22 @@ function App() {
     setCurrentPage('resume');
   };
 
+  const onToggleDark = () => setDark(p => !p);
+
   return (
     <>
       {currentPage === 'document' && (
         <DocumentInputPage 
           onNext={handleResumeGenerated} 
           dark={dark}
-          onToggleDark={() => setDark(!dark)}
+          onToggleDark={onToggleDark}
         />
       )}
       {currentPage === 'resume' && (
         <ResumePage 
           onBack={() => setCurrentPage('document')} 
           dark={dark}
-          onToggleDark={() => setDark(!dark)}
+          onToggleDark={onToggleDark}
           resumeData={resumeData}
         />
       )}
