@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+fpdf2
+pymupdf
+pdfplumber
+python-docx
+sentence-transformers
+numpy
+chromadb
+requests
+nltk
+scikit-learn
+tqdm
+spacy

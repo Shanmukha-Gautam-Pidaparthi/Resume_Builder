@@ -1,23 +1,68 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# ===============================
 
-# dependencies
-/node_modules
-/.pnp
-.pnp.js
+# Chroma / Vector Database
 
-# testing
-/coverage
+# ===============================
 
-# production
-/build
+chroma_db/
+chromadb/
+chroma/
+*.chroma
+*.sqlite3
+*.bin
+*.pickle
 
-# misc
-.DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+# ===============================
+
+# Python
+
+# ===============================
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# ===============================
+
+# Node / React
+
+# ===============================
+
+resume_builder/frontend/node_modules/
+resume_builder/frontend/build/
+
+# ===============================
+
+# Generated Outputs
+
+# ===============================
+
+resume_builder/backend/outputs/
+resume_builder/backend/uploads/
+
+# ===============================
+
+# Logs
+
+# ===============================
 
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# ===============================
+
+# OS Files
+
+# ===============================
+
+.DS_Store
+Thumbs.db
