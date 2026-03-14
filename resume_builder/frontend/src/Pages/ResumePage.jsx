@@ -521,7 +521,7 @@ function parseResumeText(text) {
 
   // Detect ALL-CAPS section headers (letters, spaces, &/ only)
   const isSectionHeader = (l) =>
-    /^[A-Z][A-Z\s&\/]{2,}$/.test(l.trim()) && l.trim().length < 50;
+    /^[A-Z][A-Z\s&/]{2,}$/.test(l.trim()) && l.trim().length < 50;
 
   for (const raw of lines) {
     const line = raw.trim();
@@ -561,10 +561,6 @@ function parseResumeText(text) {
       // Extract linkedin
       if (/linkedin\.com/i.test(line) && !result.linkedin) {
         result.linkedin = line.replace(/^.*?(linkedin\.com\S*).*/i, "$1");
-      }
-      // Extract github
-      if (/github\.com/i.test(line) && !result.location) {
-        // store github in location temporarily if no location
       }
 
       // Contact line with | separators — parse each part
@@ -747,13 +743,13 @@ export default function ResumePage({ onBack, dark, onToggleDark, resumeData }) {
   const [showDownload, setShowDownload] = useState(false);
 
   // Header fields — driven from parsed backend data
-  const [rName, setRName] = useState(initialData.name || defaultResume.name);
-  const [rTitle, setRTitle] = useState(initialData.title || defaultResume.title);
-  const [rEmail, setREmail] = useState(initialData.email || defaultResume.email);
-  const [rPhone, setRPhone] = useState(initialData.phone || defaultResume.phone);
-  const [rLocation, setRLocation] = useState(initialData.location || defaultResume.location);
-  const [rLinkedin, setRLinkedin] = useState(initialData.linkedin || defaultResume.linkedin);
-  const [rSummary, setRSummary] = useState(initialData.summary || defaultResume.summary);
+  const [rName] = useState(initialData.name || defaultResume.name);
+  const [rTitle] = useState(initialData.title || defaultResume.title);
+  const [rEmail] = useState(initialData.email || defaultResume.email);
+  const [rPhone] = useState(initialData.phone || defaultResume.phone);
+  const [rLocation] = useState(initialData.location || defaultResume.location);
+  const [rLinkedin] = useState(initialData.linkedin || defaultResume.linkedin);
+  const [rSummary] = useState(initialData.summary || defaultResume.summary);
 
   const [exp, setExp] = useState(initialData.experience || []);
   const [projects, setProjects] = useState(initialData.projects || []);
